@@ -5,9 +5,9 @@ Add ts-node to a node typescript project with tsconfig file
 using ts-node make development easier because you dont need a second terminal with tsc -w
 
 <h2>Setup</h2>
+
 ```
 npm i 
-
 ```
 make sure ts-node is installed globally
 
